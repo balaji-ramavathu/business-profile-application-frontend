@@ -7,7 +7,6 @@ import profileSrc from './profile.png';
 import Divider from '@mui/material/Divider';
 import Snackbar from '@mui/material/Snackbar';
 import MuiAlert from '@mui/material/Alert';
-import USER_APIS from '../API.js'
 
 
 
